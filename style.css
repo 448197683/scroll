@@ -34,7 +34,7 @@ ul a {
   height: 90vh;
   width: 70%;
   background-color: tomato;
-  margin-top: 10vh;
+  margin-top: 100px;
 }
 
 .page2 {
@@ -43,4 +43,8 @@ ul a {
 
 .page3 {
   background-color: darksalmon;
+}
+
+.active {
+  color: red;
 }
